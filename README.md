@@ -4,7 +4,8 @@
 
 <h1 align=center><font size = 5>Assignment: Notebook for Peer Assignment</font></h1>
 
-# IBM Data Science Databases and SQL for Data Science with Python
+# IBM Data Science Professional Certificate
+## Databases and SQL for Data Science with Python
 ## Analyzing Chicago Datasets Using SQL
 ## Introduction
 - Understand three Chicago datasets
