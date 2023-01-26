@@ -6,7 +6,7 @@
 
 # IBM Data Science Databases and SQL for Data Science with Python
 ## Analyzing Chicago Datasets Using SQL
-### Introduction
+## Introduction
 - Understand three Chicago datasets
 - Execute SQL queries to answer assignment questions
 
@@ -53,3 +53,7 @@ In many cases the dataset to be analyzed is available as a .CSV (comma separated
 - <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork/labs/FinalModule_Coursera_V5/data/ChicagoCrimeData.csv" target="_blank">Chicago Crime Data</a>
 
 **NOTE:** Ensure you have downloaded the datasets using the links above instead of directly from the Chicago Data Portal. The versions linked here are subsets of the original datasets and have some of the column names modified to be more database friendly which will make it easier to complete this assignment.
+
+### SQL queries to answer assignment questions
+
+[Analyzing Chicago Datasets](https://github.com/knikzad/sql-for-data-science-with-python/blob/main/analyzing_chicago_datasets.ipynb)
